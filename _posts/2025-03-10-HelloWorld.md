@@ -7,6 +7,6 @@ Test content
 
 
 <details>
-this is an expandable and collapsable thing
- 
+<summary>this is an expandable and collapsable thing</summary>
+Hello
 </details>

@@ -13,7 +13,7 @@ Info("Hello world!");
 ```
 <br/>
 ```
-Warning("Hello world!");
+warning("Hello world!");
 ```
 <br/>
 <br/>

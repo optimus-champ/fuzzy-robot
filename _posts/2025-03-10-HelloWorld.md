@@ -12,7 +12,6 @@ My aim is to help you write Hello World in D365 F&O.
 Info("Hello world!");
 ```
 <br/>
-<br/>
 ```
 Warning("Hello world!");
 ```
@@ -23,6 +22,8 @@ As seen above, we wrote it in two different ways. One is warning and one is info
 <br/>
 Thanks for visiting champ! You gained +1 intelligence status points! As always, Happy F&O-ing! :)
 <br/>
+<br/>
+Here's a lucky fist bump for you!
 <br/>
 <iframe src="https://giphy.com/embed/J5YmlHVeXHu5WshAly" width="240" height="135" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/worldoftankseu-wot-world-of-tanks-worldoftanks-J5YmlHVeXHu5WshAly">via GIPHY</a></p>
 

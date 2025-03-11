@@ -24,6 +24,6 @@ As seen above, we wrote it in two different ways. One is warning and one is info
 Thanks for visiting champ! You gained +1 intelligence status points! As always, Happy F&O-ing! :)
 <br/>
 <br/>
-<iframe src="https://giphy.com/embed/J5YmlHVeXHu5WshAly" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/worldoftankseu-wot-world-of-tanks-worldoftanks-J5YmlHVeXHu5WshAly">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/J5YmlHVeXHu5WshAly" width="240" height="135" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/worldoftankseu-wot-world-of-tanks-worldoftanks-J5YmlHVeXHu5WshAly">via GIPHY</a></p>
 
 

@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome champ!
 ---
 
-Test description
+Happy F&O-ing! :) 

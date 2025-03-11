@@ -1,12 +1,23 @@
 ---
-title: "Hello World"
-date: 2025-03-10
+title: "How to write Hello World in Microsoft Dynamics 365 Finance and Operations"
+date: 2025-03-11
 ---
-Test content  
-<img width="224" alt="image" src="https://github.com/user-attachments/assets/7b068cd4-1499-4e6b-bf29-c737063d1573" />
+
+Hey there!  
+My aim is to help you how to write Hello World in D365 F&O.  
 
 
 <details>
-<summary>this is an expandable and collapsable thing</summary>
-Hello
+<summary>Info</summary>
+Info('Hello world!');
+</details>  
+
+<details>
+<summary>Warning</summary>
+Warning('Hello world!');
 </details>
+
+Thanks for visiting champ! You gained +1 intelligence status points! As always, Happy F&O-ing! :)  
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvOTZoazl0c2llbzc0NnpydTF6a2p4amdsMGxyeXM0dWJ6ZDFhYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J5YmlHVeXHu5WshAly/giphy.gif
+
+
